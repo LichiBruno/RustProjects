@@ -1,7 +1,7 @@
 #[derive(Debug)]
 struct Rectangle {
-    width: u32,
-    height: u32,
+    width: u64,
+    height: u64,
 }
 
 impl Rectangle {
