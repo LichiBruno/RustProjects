@@ -1,0 +1,13 @@
+/home/lichi/projects/combiner/target/release/deps/quote-64522dae6fe12479.rmeta: /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/home/lichi/projects/combiner/target/release/deps/libquote-64522dae6fe12479.rlib: /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/home/lichi/projects/combiner/target/release/deps/quote-64522dae6fe12479.d: /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs:
+/home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs:
+/home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs:
+/home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs:
+/home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs:
+/home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs:
+/home/lichi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs:
